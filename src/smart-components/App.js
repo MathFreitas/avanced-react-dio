@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import PhotosGallery from "./Component/PhotosGallery";
 
 function App () {
